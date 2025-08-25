@@ -1,0 +1,2 @@
+# Hand-Gesture-Recognition-using-Convolution-Neural-Networks
+Hand Gesture Recognition (HGR) converts sign language into text or speech, aiding communication for the hearing impaired. We propose a CNN model that automatically learns spatial-temporal features from raw video using multi-channel inputs (color, depth, body joints). Tested with Kinect data, it outperforms traditional hand-crafted methods.
